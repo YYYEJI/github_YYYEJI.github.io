@@ -1,37 +1,40 @@
-## Welcome to GitHub 
+# github.io 블로그  첫 글
+---
+title:  "github.io 블로그  첫 글"
+excerpt: "github.io 블로그 첫 글 작성해봅니다."
+categories:
+  - Blog
+tags:
+  - Blog
+last_modified_at: 2019-04-13T08:06:00-05:00
+---
 
-You can use the [editor on GitHub](https://github.com/YYYEJI/github_YYYEJI.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### information
+  * name: Yeji Song
+  * birth: 21/04/21
+  * e-mail: 22100396@handong.ac.kr
+  * unit: handong global university
+  * major: computer science
+-----------------------------------------------
+### Java
+<pre>
+<code>
+public class BootSpringBootApplication {
+  public static void main(String[] args) {
+    System.out.println("Hello, world");
+  }
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YYYEJI/github_YYYEJI.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+}
+</code>
+</pre>
+-----------------------------------------------
+### c
+<pre>
+<code>
+int main(){
+  printf("Hello, world");
+}
+</code>
+</pre>
